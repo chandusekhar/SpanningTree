@@ -41,8 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DisjointSetUnionTree.cs" />
+    <Compile Include="Graph.cs" />
     <Compile Include="IDisjointSetUnion.cs" />
     <Compile Include="DisjointSetUnionArray.cs" />
+    <Compile Include="Kruskal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
