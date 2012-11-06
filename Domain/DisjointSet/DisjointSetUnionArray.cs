@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 
-namespace Domain {
+namespace Domain.DisjointSet {
     public class DisjointSetUnionArray : IDisjointSetUnion<int> {
         private readonly int[] array;
 
@@ -20,10 +20,10 @@ namespace Domain {
         public void Union(int item1, int item2) {
             var i1 = array[item1];
             var i2 = array[item2];
-            
+
             if (i2 == i1)
                 return;
-            
+
             for (var i = 0; i < array.Count(); i++) {
                 if (array[i] == i2) {
                     array[i] = i1;

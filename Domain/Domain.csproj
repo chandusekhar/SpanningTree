@@ -40,11 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DisjointSetUnionTree.cs" />
+    <Compile Include="DisjointSet\DisjointSetUnionArray.cs" />
+    <Compile Include="DisjointSet\DisjointSetUnionTree.cs" />
+    <Compile Include="DisjointSet\IDisjointSetUnion.cs" />
+    <Compile Include="Edge.cs" />
     <Compile Include="Graph.cs" />
-    <Compile Include="IDisjointSetUnion.cs" />
-    <Compile Include="DisjointSetUnionArray.cs" />
-    <Compile Include="Kruskal.cs" />
+    <Compile Include="SpanningTree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

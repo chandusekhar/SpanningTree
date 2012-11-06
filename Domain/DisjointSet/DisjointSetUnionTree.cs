@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Domain {
+namespace Domain.DisjointSet {
     public class DisjointSetUnionTree : IDisjointSetUnion<int> {
         private readonly Random random = new Random();
         private readonly int[] tree;

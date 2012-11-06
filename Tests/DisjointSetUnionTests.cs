@@ -1,4 +1,4 @@
-﻿using Domain;
+﻿using Domain.DisjointSet;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Tests {
@@ -9,7 +9,7 @@ namespace Tests {
             var disjointSetUnionArray = new DisjointSetUnionArray(new[] {4, 3, 2, 1, 0});
             TestAgainstComplexInput(disjointSetUnionArray);
         }
-        
+
         [TestMethod]
         public void DisjointSetUnionTreeTest() {
             var disjointSetUnionArray = new DisjointSetUnionTree(new[] {4, 3, 2, 1, 0});
