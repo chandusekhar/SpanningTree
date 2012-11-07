@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Diagnostics;
+using System.Linq;
 using Domain;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -44,6 +45,24 @@ namespace Tests {
             Assert.AreEqual(8, boruvka.Vertexes.Count);
             Assert.AreEqual(7, boruvka.Edges.Count);
             Assert.AreEqual(71, boruvka.Edges.Sum(_ => _.Weight));
+        }
+
+        [TestMethod]
+        public void IntegrationTest() {
+            var graph = GraphGenerator.GenerateGraph(10000, 500000, 1, 400);
+            var stopwatch = new Stopwatch();
+
+            stopwatch.Start();
+            var boruvka = SpanningTree.Boruvka(graph);
+            stopwatch.Stop();
+            Debug.WriteLine(stopwatch.ElapsedTicks);
+
+            stopwatch.Restart();
+            var kruskal = SpanningTree.Kruskal(graph);
+            stopwatch.Stop();
+            Debug.WriteLine(stopwatch.ElapsedTicks);
+
+            Assert.AreEqual(boruvka.Edges.Select(_ => _.Weight).Sum(), kruskal.Edges.Select(_ => _.Weight).Sum());
         }
     }
 }

@@ -14,7 +14,7 @@ namespace Domain {
             To = to;
         }
 
-        public int Weight { get; private set; }
+        public int Weight { get; set; }
         public T From { get; private set; }
         public T To { get; private set; }
     }

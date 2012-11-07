@@ -45,6 +45,7 @@
     <Compile Include="DisjointSet\IDisjointSetUnion.cs" />
     <Compile Include="Edge.cs" />
     <Compile Include="Graph.cs" />
+    <Compile Include="GraphGenerator.cs" />
     <Compile Include="SpanningTree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
