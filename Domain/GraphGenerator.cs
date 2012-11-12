@@ -1,16 +1,15 @@
 ﻿using System;
 using Domain.DisjointSet;
+using Domain.HashSet;
 
 namespace Domain {
     public static class GraphGenerator {
-        [ThreadStatic] private static Random random;
+        private static readonly Random random = new Random();
 
         public static Graph GenerateGraph(int vertexes, int edges, int weightFrom, int weightTo) {
-            random = new Random();
             var result = GenerateTree(vertexes);
 
             var alredyGeneratedEdges = new MyHashSet(vertexes);
-
             foreach (var edge in result.Edges) {
                 alredyGeneratedEdges.Add(Tuple.Create(edge.From, edge.To));
             }
@@ -65,7 +64,6 @@ namespace Domain {
         }
 
         public static Graph GenerateTree(int vertexes) {
-            random = new Random();
             var result = new Graph();
 
             for (var i = 0; i < vertexes; i++) {
@@ -75,8 +73,8 @@ namespace Domain {
             var disjointSet = new DisjointSetUnionTree(result.Vertexes);
 
             while (result.Edges.Count < result.Vertexes.Count - 1) {
-                var from = (ushort) random.Next(vertexes);
-                var to = (ushort) random.Next(vertexes);
+                var from = random.Next(vertexes);
+                var to = random.Next(vertexes);
 
                 if (from == to || disjointSet.Find(from) == disjointSet.Find(to)) continue;
 
@@ -88,15 +86,14 @@ namespace Domain {
         }
 
         public static Graph GenerateFullGraph(int vertexes, int weightFrom, int weightTo) {
-            random = new Random();
             var result = new Graph();
 
-            for (ushort i = 0; i < vertexes; i++) {
+            for (var i = 0; i < vertexes; i++) {
                 result.Vertexes.Add(i);
             }
 
-            for (ushort i = 0; i < vertexes; i++) {
-                for (var j = (ushort) (i + 1); j < vertexes; j++) {
+            for (var i = 0; i < vertexes; i++) {
+                for (var j = i + 1; j < vertexes; j++) {
                     var weight = random.Next(weightFrom, weightTo + 1);
                     result.Edges.Add(new Edge<int>(i, j, weight));
                 }

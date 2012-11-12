@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections;
 
-namespace Domain {
+namespace Domain.HashSet {
     public class MyHashSet {
         private readonly BitArray matrix;
         private readonly int size;
@@ -23,7 +23,7 @@ namespace Domain {
             var x = value.Item1;
             var y = value.Item2;
 
-            return (matrix[y*size + x]);
+            return matrix[y*size + x];
         }
     }
 }
