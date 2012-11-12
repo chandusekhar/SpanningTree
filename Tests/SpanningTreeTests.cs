@@ -62,7 +62,7 @@ namespace Tests {
             stopwatch.Stop();
             Debug.WriteLine(stopwatch.ElapsedTicks);
 
-            Assert.AreEqual(boruvka.Edges.Select(_ => _.Weight).Sum(), kruskal.Edges.Select(_ => _.Weight).Sum());
+            Assert.AreEqual(boruvka.Weight, kruskal.Weight);
         }
     }
 }

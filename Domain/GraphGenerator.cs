@@ -1,20 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using Domain.DisjointSet;
 
 namespace Domain {
     public static class GraphGenerator {
-        private static readonly Random random = new Random();
+        [ThreadStatic] private static Random random;
 
         public static Graph GenerateGraph(int vertexes, int edges, int weightFrom, int weightTo) {
+            random = new Random();
             var result = GenerateTree(vertexes);
 
-            var alredyGeneratedEdges = new HashSet<Tuple<int, int>>();
+            var alredyGeneratedEdges = new MyHashSet(vertexes);
 
             foreach (var edge in result.Edges) {
-                alredyGeneratedEdges.Add(new Tuple<int, int>(edge.From, edge.To));
-                alredyGeneratedEdges.Add(new Tuple<int, int>(edge.To, edge.From));
+                alredyGeneratedEdges.Add(Tuple.Create(edge.From, edge.To));
             }
 
             while (result.Edges.Count != edges) {
@@ -23,10 +21,13 @@ namespace Domain {
 
                 if (from == to) continue;
 
-                if (alredyGeneratedEdges.Contains(Tuple.Create(from, to))) continue;
+                if (alredyGeneratedEdges.Contains(Tuple.Create(from, to))) {
+                    var newPair = NeedNewPair(alredyGeneratedEdges, Tuple.Create(from, to), vertexes);
+                    from = newPair.Item1;
+                    to = newPair.Item2;
+                }
 
-                alredyGeneratedEdges.Add(new Tuple<int, int>(to, from));
-                alredyGeneratedEdges.Add(new Tuple<int, int>(from, to));
+                alredyGeneratedEdges.Add(Tuple.Create(from, to));
 
                 result.Edges.Add(new Edge<int>(from, to, 0));
             }
@@ -38,21 +39,67 @@ namespace Domain {
             return result;
         }
 
+        private static Tuple<int, int> NeedNewPair(MyHashSet alredyGeneratedEdges, Tuple<int, int> value, int vertexes) {
+            var from = value.Item1;
+            var to = value.Item2;
+
+            for (var i = from; i < vertexes; i++) {
+                for (var j = to; j < vertexes; j++) {
+                    var tuple = Tuple.Create(i, j);
+                    if (!alredyGeneratedEdges.Contains(tuple)) {
+                        return tuple;
+                    }
+                }
+            }
+
+            for (var i = from; i >= 0; i--) {
+                for (var j = to; j >= 0; j--) {
+                    var tuple = Tuple.Create(i, j);
+                    if (!alredyGeneratedEdges.Contains(tuple)) {
+                        return tuple;
+                    }
+                }
+            }
+
+            throw new Exception("Check edges count");
+        }
+
         public static Graph GenerateTree(int vertexes) {
-            var result = new Graph {
-                Vertexes = Enumerable.Range(0, vertexes).ToList()
-            };
+            random = new Random();
+            var result = new Graph();
+
+            for (var i = 0; i < vertexes; i++) {
+                result.Vertexes.Add(i);
+            }
 
             var disjointSet = new DisjointSetUnionTree(result.Vertexes);
 
             while (result.Edges.Count < result.Vertexes.Count - 1) {
-                var from = random.Next(vertexes);
-                var to = random.Next(vertexes);
+                var from = (ushort) random.Next(vertexes);
+                var to = (ushort) random.Next(vertexes);
 
                 if (from == to || disjointSet.Find(from) == disjointSet.Find(to)) continue;
 
                 result.Edges.Add(new Edge<int>(from, to, 0));
                 disjointSet.Union(from, to);
+            }
+
+            return result;
+        }
+
+        public static Graph GenerateFullGraph(int vertexes, int weightFrom, int weightTo) {
+            random = new Random();
+            var result = new Graph();
+
+            for (ushort i = 0; i < vertexes; i++) {
+                result.Vertexes.Add(i);
+            }
+
+            for (ushort i = 0; i < vertexes; i++) {
+                for (var j = (ushort) (i + 1); j < vertexes; j++) {
+                    var weight = random.Next(weightFrom, weightTo + 1);
+                    result.Edges.Add(new Edge<int>(i, j, weight));
+                }
             }
 
             return result;

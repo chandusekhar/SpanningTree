@@ -20,5 +20,23 @@ namespace Tests {
             Assert.AreEqual(4, generateGraph.Vertexes.Count);
             Assert.AreEqual(6, generateGraph.Edges.Count);
         }
+
+        [TestMethod]
+        public void CanBuildFullGraph() {
+            const int vertexes = 10000;
+            var generateGraph = GraphGenerator.GenerateFullGraph(vertexes, 2, 3);
+
+            Assert.AreEqual(vertexes, generateGraph.Vertexes.Count);
+            Assert.AreEqual(vertexes*(vertexes - 1)/2, generateGraph.Edges.Count);
+        }
+
+        [TestMethod]
+        public void CanBuildBigGraph() {
+            const int vertexes = 100;
+            var generateGraph = GraphGenerator.GenerateGraph(vertexes, vertexes*(vertexes - 1)/2, 1, 1);
+
+            Assert.AreEqual(vertexes, generateGraph.Vertexes.Count);
+            Assert.AreEqual(vertexes*(vertexes - 1)/2, generateGraph.Edges.Count);
+        }
     }
 }

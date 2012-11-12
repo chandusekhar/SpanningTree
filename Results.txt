@@ -1,0 +1,1748 @@
+
+Task 3.1 Edges~=1/10*Vertexes^2
+Edges: 0	Vertexes: 1	Weights match: Passed
+Burovka time: 5388	Kruskal time: 3293
+Edges: 1010	Vertexes: 101	Weights match: Passed
+Burovka time: 2864	Kruskal time: 1865
+Edges: 4020	Vertexes: 201	Weights match: Passed
+Burovka time: 6050	Kruskal time: 4789
+Edges: 9030	Vertexes: 301	Weights match: Passed
+Burovka time: 14404	Kruskal time: 11231
+Edges: 16040	Vertexes: 401	Weights match: Passed
+Burovka time: 26267	Kruskal time: 20584
+Edges: 25050	Vertexes: 501	Weights match: Passed
+Burovka time: 47588	Kruskal time: 33169
+Edges: 36060	Vertexes: 601	Weights match: Passed
+Burovka time: 70846	Kruskal time: 50830
+Edges: 49070	Vertexes: 701	Weights match: Passed
+Burovka time: 85826	Kruskal time: 71470
+Edges: 64080	Vertexes: 801	Weights match: Passed
+Burovka time: 102318	Kruskal time: 94808
+Edges: 81090	Vertexes: 901	Weights match: Passed
+Burovka time: 130117	Kruskal time: 147570
+Edges: 100100	Vertexes: 1001	Weights match: Passed
+Burovka time: 159089	Kruskal time: 152169
+Edges: 121110	Vertexes: 1101	Weights match: Passed
+Burovka time: 249421	Kruskal time: 218482
+Edges: 144120	Vertexes: 1201	Weights match: Passed
+Burovka time: 248725	Kruskal time: 267967
+Edges: 169130	Vertexes: 1301	Weights match: Passed
+Burovka time: 348078	Kruskal time: 275870
+Edges: 196140	Vertexes: 1401	Weights match: Passed
+Burovka time: 415936	Kruskal time: 349475
+Edges: 225150	Vertexes: 1501	Weights match: Passed
+Burovka time: 478867	Kruskal time: 453285
+Edges: 256160	Vertexes: 1601	Weights match: Passed
+Burovka time: 533380	Kruskal time: 479208
+Edges: 289170	Vertexes: 1701	Weights match: Passed
+Burovka time: 597721	Kruskal time: 546834
+Edges: 324180	Vertexes: 1801	Weights match: Passed
+Burovka time: 562641	Kruskal time: 659550
+Edges: 361190	Vertexes: 1901	Weights match: Passed
+Burovka time: 734400	Kruskal time: 745488
+Edges: 400200	Vertexes: 2001	Weights match: Passed
+Burovka time: 891671	Kruskal time: 818161
+Edges: 441210	Vertexes: 2101	Weights match: Passed
+Burovka time: 849896	Kruskal time: 937330
+Edges: 484220	Vertexes: 2201	Weights match: Passed
+Burovka time: 967017	Kruskal time: 1027797
+Edges: 529230	Vertexes: 2301	Weights match: Passed
+Burovka time: 1082890	Kruskal time: 1136669
+Edges: 576240	Vertexes: 2401	Weights match: Passed
+Burovka time: 1228901	Kruskal time: 1280806
+Edges: 625250	Vertexes: 2501	Weights match: Passed
+Burovka time: 1515907	Kruskal time: 1358654
+Edges: 676260	Vertexes: 2601	Weights match: Passed
+Burovka time: 1414716	Kruskal time: 1518831
+Edges: 729270	Vertexes: 2701	Weights match: Passed
+Burovka time: 1535590	Kruskal time: 1655263
+Edges: 784280	Vertexes: 2801	Weights match: Passed
+Burovka time: 1636374	Kruskal time: 1761136
+Edges: 841290	Vertexes: 2901	Weights match: Passed
+Burovka time: 1776405	Kruskal time: 1986677
+Edges: 900300	Vertexes: 3001	Weights match: Passed
+Burovka time: 1844329	Kruskal time: 2152010
+Edges: 961310	Vertexes: 3101	Weights match: Passed
+Burovka time: 1998608	Kruskal time: 2225355
+Edges: 1024320	Vertexes: 3201	Weights match: Passed
+Burovka time: 2234464	Kruskal time: 2496961
+Edges: 1089330	Vertexes: 3301	Weights match: Passed
+Burovka time: 2516860	Kruskal time: 2702104
+Edges: 1156340	Vertexes: 3401	Weights match: Passed
+Burovka time: 2646310	Kruskal time: 2716288
+Edges: 1225350	Vertexes: 3501	Weights match: Passed
+Burovka time: 2729501	Kruskal time: 2839781
+Edges: 1296360	Vertexes: 3601	Weights match: Passed
+Burovka time: 2865954	Kruskal time: 3182025
+Edges: 1369370	Vertexes: 3701	Weights match: Passed
+Burovka time: 2976825	Kruskal time: 3374146
+Edges: 1444380	Vertexes: 3801	Weights match: Passed
+Burovka time: 3152639	Kruskal time: 3541997
+Edges: 1521390	Vertexes: 3901	Weights match: Passed
+Burovka time: 3162310	Kruskal time: 3807689
+Edges: 1600400	Vertexes: 4001	Weights match: Passed
+Burovka time: 3920757	Kruskal time: 3933935
+Edges: 1681410	Vertexes: 4101	Weights match: Passed
+Burovka time: 4184044	Kruskal time: 4123921
+Edges: 1764420	Vertexes: 4201	Weights match: Passed
+Burovka time: 3895187	Kruskal time: 4347773
+Edges: 1849430	Vertexes: 4301	Weights match: Passed
+Burovka time: 4697389	Kruskal time: 4622142
+Edges: 1936440	Vertexes: 4401	Weights match: Passed
+Burovka time: 4179487	Kruskal time: 5050981
+Edges: 2025450	Vertexes: 4501	Weights match: Passed
+Burovka time: 4291629	Kruskal time: 5233546
+Edges: 2116460	Vertexes: 4601	Weights match: Passed
+Burovka time: 5261133	Kruskal time: 5351240
+Edges: 2209470	Vertexes: 4701	Weights match: Passed
+Burovka time: 4805574	Kruskal time: 5690832
+Edges: 2304480	Vertexes: 4801	Weights match: Passed
+Burovka time: 5030276	Kruskal time: 5898226
+Edges: 2401490	Vertexes: 4901	Weights match: Passed
+Burovka time: 5836143	Kruskal time: 6273225
+Edges: 2500500	Vertexes: 5001	Weights match: Passed
+Burovka time: 6318375	Kruskal time: 6603493
+Edges: 2601510	Vertexes: 5101	Weights match: Passed
+Burovka time: 6454684	Kruskal time: 6795318
+Edges: 2704520	Vertexes: 5201	Weights match: Passed
+Burovka time: 6983976	Kruskal time: 7239417
+Edges: 2809530	Vertexes: 5301	Weights match: Passed
+Burovka time: 6275993	Kruskal time: 7286798
+Edges: 2916540	Vertexes: 5401	Weights match: Passed
+Burovka time: 6429555	Kruskal time: 7562829
+Edges: 3025550	Vertexes: 5501	Weights match: Passed
+Burovka time: 6485341	Kruskal time: 8184477
+Edges: 3136560	Vertexes: 5601	Weights match: Passed
+Burovka time: 7055085	Kruskal time: 8564783
+Edges: 3249570	Vertexes: 5701	Weights match: Passed
+Burovka time: 7148567	Kruskal time: 8688796
+Edges: 3364580	Vertexes: 5801	Weights match: Passed
+Burovka time: 7301142	Kruskal time: 8882270
+Edges: 3481590	Vertexes: 5901	Weights match: Passed
+Burovka time: 7828994	Kruskal time: 9475964
+Edges: 3600600	Vertexes: 6001	Weights match: Passed
+Burovka time: 8086714	Kruskal time: 9975451
+Edges: 3721610	Vertexes: 6101	Weights match: Passed
+Burovka time: 9513862	Kruskal time: 10278484
+Edges: 3844620	Vertexes: 6201	Weights match: Passed
+Burovka time: 10095541	Kruskal time: 10778334
+Edges: 3969630	Vertexes: 6301	Weights match: Passed
+Burovka time: 10113758	Kruskal time: 10991894
+Edges: 4096640	Vertexes: 6401	Weights match: Passed
+Burovka time: 10479613	Kruskal time: 11246079
+Edges: 4225650	Vertexes: 6501	Weights match: Passed
+Burovka time: 10914961	Kruskal time: 11666316
+Edges: 4356660	Vertexes: 6601	Weights match: Passed
+Burovka time: 11391443	Kruskal time: 12357836
+Edges: 4489670	Vertexes: 6701	Weights match: Passed
+Burovka time: 9988231	Kruskal time: 12604510
+Edges: 4624680	Vertexes: 6801	Weights match: Passed
+Burovka time: 10259883	Kruskal time: 12945330
+Edges: 4761690	Vertexes: 6901	Weights match: Passed
+Burovka time: 12524355	Kruskal time: 13814890
+Edges: 4900700	Vertexes: 7001	Weights match: Passed
+Burovka time: 10518436	Kruskal time: 13494056
+Edges: 5041710	Vertexes: 7101	Weights match: Passed
+Burovka time: 11982054	Kruskal time: 14560030
+Edges: 5184720	Vertexes: 7201	Weights match: Passed
+Burovka time: 13615858	Kruskal time: 15067185
+Edges: 5329730	Vertexes: 7301	Weights match: Passed
+Burovka time: 12078913	Kruskal time: 15686249
+Edges: 5476740	Vertexes: 7401	Weights match: Passed
+Burovka time: 14032837	Kruskal time: 15956645
+Edges: 5625750	Vertexes: 7501	Weights match: Passed
+Burovka time: 13173544	Kruskal time: 16787275
+Edges: 5776760	Vertexes: 7601	Weights match: Passed
+Burovka time: 13428229	Kruskal time: 16497105
+Edges: 5929770	Vertexes: 7701	Weights match: Passed
+Burovka time: 15291322	Kruskal time: 17580427
+Edges: 6084780	Vertexes: 7801	Weights match: Passed
+Burovka time: 16077816	Kruskal time: 18170936
+Edges: 6241790	Vertexes: 7901	Weights match: Passed
+Burovka time: 16168652	Kruskal time: 18024233
+Edges: 6400800	Vertexes: 8001	Weights match: Passed
+Burovka time: 16919005	Kruskal time: 18735401
+Edges: 6561810	Vertexes: 8101	Weights match: Passed
+Burovka time: 17824131	Kruskal time: 18960013
+Edges: 6724820	Vertexes: 8201	Weights match: Passed
+Burovka time: 15833090	Kruskal time: 20015065
+Edges: 6889830	Vertexes: 8301	Weights match: Passed
+Burovka time: 18185247	Kruskal time: 20385730
+Edges: 7056840	Vertexes: 8401	Weights match: Passed
+Burovka time: 16066541	Kruskal time: 20914176
+Edges: 7225850	Vertexes: 8501	Weights match: Passed
+Burovka time: 19680885	Kruskal time: 21557177
+Edges: 7396860	Vertexes: 8601	Weights match: Passed
+Burovka time: 19420273	Kruskal time: 22219030
+Edges: 7569870	Vertexes: 8701	Weights match: Passed
+Burovka time: 17529967	Kruskal time: 22454014
+Edges: 7744880	Vertexes: 8801	Weights match: Passed
+Burovka time: 17702800	Kruskal time: 23285312
+Edges: 7921890	Vertexes: 8901	Weights match: Passed
+Burovka time: 20398661	Kruskal time: 23639720
+Edges: 8100900	Vertexes: 9001	Weights match: Passed
+Burovka time: 18803532	Kruskal time: 24523933
+Edges: 8281910	Vertexes: 9101	Weights match: Passed
+Burovka time: 22353854	Kruskal time: 24644238
+Edges: 8464920	Vertexes: 9201	Weights match: Passed
+Burovka time: 19410617	Kruskal time: 25516075
+Edges: 8649930	Vertexes: 9301	Weights match: Passed
+Burovka time: 23050817	Kruskal time: 25955442
+Edges: 8836940	Vertexes: 9401	Weights match: Passed
+Burovka time: 23835024	Kruskal time: 27028968
+Edges: 9025950	Vertexes: 9501	Weights match: Passed
+Burovka time: 23245396	Kruskal time: 28310557
+Edges: 9216960	Vertexes: 9601	Weights match: Passed
+Burovka time: 24982050	Kruskal time: 28799201
+Edges: 9409970	Vertexes: 9701	Weights match: Passed
+Burovka time: 24503032	Kruskal time: 28333699
+Edges: 9604980	Vertexes: 9801	Weights match: Passed
+Burovka time: 22054290	Kruskal time: 29025892
+Edges: 9801990	Vertexes: 9901	Weights match: Passed
+Burovka time: 26507777	Kruskal time: 30543453
+
+Task 3.1 Full Graph
+Edges: 0	Vertexes: 1	Weights match: Passed
+Burovka time: 22	Kruskal time: 12
+Edges: 5050	Vertexes: 101	Weights match: Passed
+Burovka time: 5707	Kruskal time: 5568
+Edges: 20100	Vertexes: 201	Weights match: Passed
+Burovka time: 29669	Kruskal time: 25245
+Edges: 45150	Vertexes: 301	Weights match: Passed
+Burovka time: 63388	Kruskal time: 61526
+Edges: 80200	Vertexes: 401	Weights match: Passed
+Burovka time: 122206	Kruskal time: 113891
+Edges: 125250	Vertexes: 501	Weights match: Passed
+Burovka time: 194860	Kruskal time: 192973
+Edges: 180300	Vertexes: 601	Weights match: Passed
+Burovka time: 343350	Kruskal time: 290134
+Edges: 245350	Vertexes: 701	Weights match: Passed
+Burovka time: 389875	Kruskal time: 438482
+Edges: 320400	Vertexes: 801	Weights match: Passed
+Burovka time: 500466	Kruskal time: 592467
+Edges: 405450	Vertexes: 901	Weights match: Passed
+Burovka time: 635523	Kruskal time: 777102
+Edges: 500500	Vertexes: 1001	Weights match: Passed
+Burovka time: 789065	Kruskal time: 1052284
+Edges: 605550	Vertexes: 1101	Weights match: Passed
+Burovka time: 1161646	Kruskal time: 1316400
+Edges: 720600	Vertexes: 1201	Weights match: Passed
+Burovka time: 1180120	Kruskal time: 1630301
+Edges: 845650	Vertexes: 1301	Weights match: Passed
+Burovka time: 1511438	Kruskal time: 1932753
+Edges: 980700	Vertexes: 1401	Weights match: Passed
+Burovka time: 1900002	Kruskal time: 2357466
+Edges: 1125750	Vertexes: 1501	Weights match: Passed
+Burovka time: 2148813	Kruskal time: 3459323
+Edges: 1280800	Vertexes: 1601	Weights match: Passed
+Burovka time: 2091924	Kruskal time: 3045077
+Edges: 1445850	Vertexes: 1701	Weights match: Passed
+Burovka time: 2909685	Kruskal time: 3531270
+Edges: 1620900	Vertexes: 1801	Weights match: Passed
+Burovka time: 3034751	Kruskal time: 4063990
+Edges: 1805950	Vertexes: 1901	Weights match: Passed
+Burovka time: 3521331	Kruskal time: 4543549
+Edges: 2001000	Vertexes: 2001	Weights match: Passed
+Burovka time: 3183641	Kruskal time: 5090586
+Edges: 2206050	Vertexes: 2101	Weights match: Passed
+Burovka time: 4283235	Kruskal time: 5626303
+Edges: 2421100	Vertexes: 2201	Weights match: Passed
+Burovka time: 4535961	Kruskal time: 6409670
+Edges: 2646150	Vertexes: 2301	Weights match: Passed
+Burovka time: 5314755	Kruskal time: 7090438
+Edges: 2881200	Vertexes: 2401	Weights match: Passed
+Burovka time: 5603678	Kruskal time: 7687386
+Edges: 3126250	Vertexes: 2501	Weights match: Passed
+Burovka time: 7226516	Kruskal time: 8442127
+Edges: 3381300	Vertexes: 2601	Weights match: Passed
+Burovka time: 6616171	Kruskal time: 9122537
+Edges: 3646350	Vertexes: 2701	Weights match: Passed
+Burovka time: 6794147	Kruskal time: 10170433
+Edges: 3921400	Vertexes: 2801	Weights match: Passed
+Burovka time: 8111669	Kruskal time: 10861919
+Edges: 4206450	Vertexes: 2901	Weights match: Passed
+Burovka time: 8574548	Kruskal time: 11953915
+Edges: 4501500	Vertexes: 3001	Weights match: Passed
+Burovka time: 9389684	Kruskal time: 12602753
+Edges: 4806550	Vertexes: 3101	Weights match: Passed
+Burovka time: 9654149	Kruskal time: 13604167
+Edges: 5121600	Vertexes: 3201	Weights match: Passed
+Burovka time: 10729228	Kruskal time: 14719497
+Edges: 5446650	Vertexes: 3301	Weights match: Passed
+Burovka time: 10601107	Kruskal time: 16048484
+Edges: 5781700	Vertexes: 3401	Weights match: Passed
+Burovka time: 11876093	Kruskal time: 17280911
+Edges: 6126750	Vertexes: 3501	Weights match: Passed
+Burovka time: 12745347	Kruskal time: 18302253
+Edges: 6481800	Vertexes: 3601	Weights match: Passed
+Burovka time: 13277934	Kruskal time: 19287421
+Edges: 6846850	Vertexes: 3701	Weights match: Passed
+Burovka time: 14160975	Kruskal time: 20606439
+Edges: 7221900	Vertexes: 3801	Weights match: Passed
+Burovka time: 14690969	Kruskal time: 21983769
+Edges: 7606950	Vertexes: 3901	Weights match: Passed
+Burovka time: 16141804	Kruskal time: 23258540
+Edges: 8002000	Vertexes: 4001	Weights match: Passed
+Burovka time: 16373565	Kruskal time: 24338439
+Edges: 8407050	Vertexes: 4101	Weights match: Passed
+Burovka time: 19604860	Kruskal time: 25689871
+Edges: 8822100	Vertexes: 4201	Weights match: Passed
+Burovka time: 20911986	Kruskal time: 26874438
+Edges: 9247150	Vertexes: 4301	Weights match: Passed
+Burovka time: 18234312	Kruskal time: 29236468
+Edges: 9682200	Vertexes: 4401	Weights match: Passed
+Burovka time: 20546479	Kruskal time: 29971844
+Edges: 10127250	Vertexes: 4501	Weights match: Passed
+Burovka time: 20783914	Kruskal time: 31360466
+Edges: 10582300	Vertexes: 4601	Weights match: Passed
+Burovka time: 21362134	Kruskal time: 32395219
+Edges: 11047350	Vertexes: 4701	Weights match: Passed
+Burovka time: 22668352	Kruskal time: 34987138
+Edges: 11522400	Vertexes: 4801	Weights match: Passed
+Burovka time: 23490427	Kruskal time: 36088036
+Edges: 12007450	Vertexes: 4901	Weights match: Passed
+Burovka time: 23943448	Kruskal time: 37080487
+Edges: 12502500	Vertexes: 5001	Weights match: Passed
+Burovka time: 25557159	Kruskal time: 39510026
+Edges: 13007550	Vertexes: 5101	Weights match: Passed
+Burovka time: 26988390	Kruskal time: 42054011
+Edges: 13522600	Vertexes: 5201	Weights match: Passed
+Burovka time: 27929311	Kruskal time: 43653202
+Edges: 14047650	Vertexes: 5301	Weights match: Passed
+Burovka time: 28774591	Kruskal time: 45027615
+Edges: 14582700	Vertexes: 5401	Weights match: Passed
+Burovka time: 34740975	Kruskal time: 47729913
+Edges: 15127750	Vertexes: 5501	Weights match: Passed
+Burovka time: 35012121	Kruskal time: 48571113
+Edges: 15682800	Vertexes: 5601	Weights match: Passed
+Burovka time: 37920075	Kruskal time: 51135636
+Edges: 16247850	Vertexes: 5701	Weights match: Passed
+Burovka time: 32762283	Kruskal time: 53711685
+Edges: 16822900	Vertexes: 5801	Weights match: Passed
+Burovka time: 35202596	Kruskal time: 55456794
+Edges: 17407950	Vertexes: 5901	Weights match: Passed
+Burovka time: 40490776	Kruskal time: 59037909
+Edges: 18003000	Vertexes: 6001	Weights match: Passed
+Burovka time: 37515360	Kruskal time: 60034128
+Edges: 18608050	Vertexes: 6101	Weights match: Passed
+Burovka time: 43948971	Kruskal time: 63301698
+Edges: 19223100	Vertexes: 6201	Weights match: Passed
+Burovka time: 45588705	Kruskal time: 66083127
+Edges: 19848150	Vertexes: 6301	Weights match: Passed
+Burovka time: 41413555	Kruskal time: 68402794
+Edges: 20483200	Vertexes: 6401	Weights match: Passed
+Burovka time: 48741509	Kruskal time: 71255718
+Edges: 21128250	Vertexes: 6501	Weights match: Passed
+Burovka time: 45255623	Kruskal time: 71800122
+Edges: 21783300	Vertexes: 6601	Weights match: Passed
+Burovka time: 54789456	Kruskal time: 75897431
+Edges: 22448350	Vertexes: 6701	Weights match: Passed
+Burovka time: 53748478	Kruskal time: 77793539
+Edges: 23123400	Vertexes: 6801	Weights match: Passed
+Burovka time: 49538739	Kruskal time: 79108478
+Edges: 23808450	Vertexes: 6901	Weights match: Passed
+Burovka time: 55413087	Kruskal time: 82615219
+Edges: 24503500	Vertexes: 7001	Weights match: Passed
+Burovka time: 58694704	Kruskal time: 84942794
+Edges: 25208550	Vertexes: 7101	Weights match: Passed
+Burovka time: 62040515	Kruskal time: 88271104
+Edges: 25923600	Vertexes: 7201	Weights match: Passed
+Burovka time: 61060850	Kruskal time: 91296863
+Edges: 26648650	Vertexes: 7301	Weights match: Passed
+Burovka time: 57183922	Kruskal time: 92883022
+Edges: 27383700	Vertexes: 7401	Weights match: Passed
+Burovka time: 65406701	Kruskal time: 96897872
+Edges: 28128750	Vertexes: 7501	Weights match: Passed
+Burovka time: 69010772	Kruskal time: 101794083
+Edges: 28883800	Vertexes: 7601	Weights match: Passed
+Burovka time: 67628187	Kruskal time: 103133891
+Edges: 29648850	Vertexes: 7701	Weights match: Passed
+Burovka time: 71767301	Kruskal time: 107001184
+Edges: 30423900	Vertexes: 7801	Weights match: Passed
+Burovka time: 64620504	Kruskal time: 108004926
+Edges: 31208950	Vertexes: 7901	Weights match: Passed
+Burovka time: 66228258	Kruskal time: 112259827
+Edges: 32004000	Vertexes: 8001	Weights match: Passed
+Burovka time: 76441022	Kruskal time: 114146308
+Edges: 32809050	Vertexes: 8101	Weights match: Passed
+Burovka time: 71218421	Kruskal time: 123001766
+Edges: 33624100	Vertexes: 8201	Weights match: Passed
+Burovka time: 80503474	Kruskal time: 124847227
+Edges: 34449150	Vertexes: 8301	Weights match: Passed
+Burovka time: 82419415	Kruskal time: 129414815
+Edges: 35284200	Vertexes: 8401	Weights match: Passed
+Burovka time: 74580520	Kruskal time: 130104522
+Edges: 36129250	Vertexes: 8501	Weights match: Passed
+Burovka time: 88312868	Kruskal time: 136276508
+Edges: 36984300	Vertexes: 8601	Weights match: Passed
+Burovka time: 91273747	Kruskal time: 138903328
+Edges: 37849350	Vertexes: 8701	Weights match: Passed
+Burovka time: 93883863	Kruskal time: 141789642
+Edges: 38724400	Vertexes: 8801	Weights match: Passed
+Burovka time: 82165466	Kruskal time: 145545633
+Edges: 39609450	Vertexes: 8901	Weights match: Passed
+Burovka time: 98500679	Kruskal time: 147251843
+Edges: 40504500	Vertexes: 9001	Weights match: Passed
+Burovka time: 100407797	Kruskal time: 152436827
+Edges: 41409550	Vertexes: 9101	Weights match: Passed
+Burovka time: 96428611	Kruskal time: 156309792
+Edges: 42324600	Vertexes: 9201	Weights match: Passed
+Burovka time: 106565151	Kruskal time: 160313347
+Edges: 43249650	Vertexes: 9301	Weights match: Passed
+Burovka time: 102817659	Kruskal time: 167991143
+Edges: 44184700	Vertexes: 9401	Weights match: Passed
+Burovka time: 107899467	Kruskal time: 170578569
+Edges: 45129750	Vertexes: 9501	Weights match: Passed
+Burovka time: 106665225	Kruskal time: 171621865
+Edges: 46084800	Vertexes: 9601	Weights match: Passed
+Burovka time: 117358149	Kruskal time: 179231457
+Edges: 47049850	Vertexes: 9701	Weights match: Passed
+Burovka time: 99919265	Kruskal time: 184499362
+Edges: 48024900	Vertexes: 9801	Weights match: Passed
+Burovka time: 118131687	Kruskal time: 188338817
+Edges: 49009950	Vertexes: 9901	Weights match: Passed
+Burovka time: 120664881	Kruskal time: 192739403
+
+Task 3.2 Edges=100*Vertexes
+Edges: 20100	Vertexes: 201	Weights match: Passed
+Burovka time: 26631	Kruskal time: 25865
+Edges: 30100	Vertexes: 301	Weights match: Passed
+Burovka time: 46883	Kruskal time: 42244
+Edges: 40100	Vertexes: 401	Weights match: Passed
+Burovka time: 59872	Kruskal time: 57022
+Edges: 50100	Vertexes: 501	Weights match: Passed
+Burovka time: 82714	Kruskal time: 69969
+Edges: 60100	Vertexes: 601	Weights match: Passed
+Burovka time: 117648	Kruskal time: 86656
+Edges: 70100	Vertexes: 701	Weights match: Passed
+Burovka time: 108777	Kruskal time: 100200
+Edges: 80100	Vertexes: 801	Weights match: Passed
+Burovka time: 131365	Kruskal time: 121811
+Edges: 90100	Vertexes: 901	Weights match: Passed
+Burovka time: 142619	Kruskal time: 134685
+Edges: 100100	Vertexes: 1001	Weights match: Passed
+Burovka time: 164464	Kruskal time: 173564
+Edges: 110100	Vertexes: 1101	Weights match: Passed
+Burovka time: 169285	Kruskal time: 169079
+Edges: 120100	Vertexes: 1201	Weights match: Passed
+Burovka time: 236166	Kruskal time: 192326
+Edges: 130100	Vertexes: 1301	Weights match: Passed
+Burovka time: 214400	Kruskal time: 201968
+Edges: 140100	Vertexes: 1401	Weights match: Passed
+Burovka time: 273111	Kruskal time: 223615
+Edges: 150100	Vertexes: 1501	Weights match: Passed
+Burovka time: 258728	Kruskal time: 257034
+Edges: 160100	Vertexes: 1601	Weights match: Passed
+Burovka time: 328432	Kruskal time: 269179
+Edges: 170100	Vertexes: 1701	Weights match: Passed
+Burovka time: 352671	Kruskal time: 290918
+Edges: 180100	Vertexes: 1801	Weights match: Passed
+Burovka time: 369066	Kruskal time: 317674
+Edges: 190100	Vertexes: 1901	Weights match: Passed
+Burovka time: 360267	Kruskal time: 327670
+Edges: 200100	Vertexes: 2001	Weights match: Passed
+Burovka time: 397412	Kruskal time: 377319
+Edges: 210100	Vertexes: 2101	Weights match: Passed
+Burovka time: 412533	Kruskal time: 379738
+Edges: 220100	Vertexes: 2201	Weights match: Passed
+Burovka time: 451224	Kruskal time: 393746
+Edges: 230100	Vertexes: 2301	Weights match: Passed
+Burovka time: 453873	Kruskal time: 430846
+Edges: 240100	Vertexes: 2401	Weights match: Passed
+Burovka time: 503395	Kruskal time: 418439
+Edges: 250100	Vertexes: 2501	Weights match: Passed
+Burovka time: 481172	Kruskal time: 469529
+Edges: 260100	Vertexes: 2601	Weights match: Passed
+Burovka time: 547985	Kruskal time: 479810
+Edges: 270100	Vertexes: 2701	Weights match: Passed
+Burovka time: 549144	Kruskal time: 512967
+Edges: 280100	Vertexes: 2801	Weights match: Passed
+Burovka time: 592479	Kruskal time: 563724
+Edges: 290100	Vertexes: 2901	Weights match: Passed
+Burovka time: 694355	Kruskal time: 563933
+Edges: 300100	Vertexes: 3001	Weights match: Passed
+Burovka time: 629145	Kruskal time: 593318
+Edges: 310100	Vertexes: 3101	Weights match: Passed
+Burovka time: 664330	Kruskal time: 617997
+Edges: 320100	Vertexes: 3201	Weights match: Passed
+Burovka time: 858454	Kruskal time: 609943
+Edges: 330100	Vertexes: 3301	Weights match: Passed
+Burovka time: 702398	Kruskal time: 671605
+Edges: 340100	Vertexes: 3401	Weights match: Passed
+Burovka time: 770290	Kruskal time: 652810
+Edges: 350100	Vertexes: 3501	Weights match: Passed
+Burovka time: 781696	Kruskal time: 708819
+Edges: 360100	Vertexes: 3601	Weights match: Passed
+Burovka time: 730050	Kruskal time: 724556
+Edges: 370100	Vertexes: 3701	Weights match: Passed
+Burovka time: 823009	Kruskal time: 772186
+Edges: 380100	Vertexes: 3801	Weights match: Passed
+Burovka time: 841653	Kruskal time: 770247
+Edges: 390100	Vertexes: 3901	Weights match: Passed
+Burovka time: 951638	Kruskal time: 791232
+Edges: 400100	Vertexes: 4001	Weights match: Passed
+Burovka time: 808339	Kruskal time: 844887
+Edges: 410100	Vertexes: 4101	Weights match: Passed
+Burovka time: 994442	Kruskal time: 858230
+Edges: 420100	Vertexes: 4201	Weights match: Passed
+Burovka time: 912245	Kruskal time: 892376
+Edges: 430100	Vertexes: 4301	Weights match: Passed
+Burovka time: 912660	Kruskal time: 908250
+Edges: 440100	Vertexes: 4401	Weights match: Passed
+Burovka time: 944593	Kruskal time: 913750
+Edges: 450100	Vertexes: 4501	Weights match: Passed
+Burovka time: 1077313	Kruskal time: 960815
+Edges: 460100	Vertexes: 4601	Weights match: Passed
+Burovka time: 998138	Kruskal time: 948508
+Edges: 470100	Vertexes: 4701	Weights match: Passed
+Burovka time: 1014893	Kruskal time: 984486
+Edges: 480100	Vertexes: 4801	Weights match: Passed
+Burovka time: 1210696	Kruskal time: 994195
+Edges: 490100	Vertexes: 4901	Weights match: Passed
+Burovka time: 1039908	Kruskal time: 1114740
+Edges: 500100	Vertexes: 5001	Weights match: Passed
+Burovka time: 1234848	Kruskal time: 1104134
+Edges: 510100	Vertexes: 5101	Weights match: Passed
+Burovka time: 1134533	Kruskal time: 1077575
+Edges: 520100	Vertexes: 5201	Weights match: Passed
+Burovka time: 1135150	Kruskal time: 1117621
+Edges: 530100	Vertexes: 5301	Weights match: Passed
+Burovka time: 1172512	Kruskal time: 1109812
+Edges: 540100	Vertexes: 5401	Weights match: Passed
+Burovka time: 1204790	Kruskal time: 1174246
+Edges: 550100	Vertexes: 5501	Weights match: Passed
+Burovka time: 1225521	Kruskal time: 1163294
+Edges: 560100	Vertexes: 5601	Weights match: Passed
+Burovka time: 1402993	Kruskal time: 1245624
+Edges: 570100	Vertexes: 5701	Weights match: Passed
+Burovka time: 1272112	Kruskal time: 1219100
+Edges: 580100	Vertexes: 5801	Weights match: Passed
+Burovka time: 1478980	Kruskal time: 1281116
+Edges: 590100	Vertexes: 5901	Weights match: Passed
+Burovka time: 1261640	Kruskal time: 1326893
+Edges: 600100	Vertexes: 6001	Weights match: Passed
+Burovka time: 1594487	Kruskal time: 1342585
+Edges: 610100	Vertexes: 6101	Weights match: Passed
+Burovka time: 1373105	Kruskal time: 1358768
+Edges: 620100	Vertexes: 6201	Weights match: Passed
+Burovka time: 1436608	Kruskal time: 1395789
+Edges: 630100	Vertexes: 6301	Weights match: Passed
+Burovka time: 1433560	Kruskal time: 1402158
+Edges: 640100	Vertexes: 6401	Weights match: Passed
+Burovka time: 1700156	Kruskal time: 1375497
+Edges: 650100	Vertexes: 6501	Weights match: Passed
+Burovka time: 1703440	Kruskal time: 1441054
+Edges: 660100	Vertexes: 6601	Weights match: Passed
+Burovka time: 1476257	Kruskal time: 1426446
+Edges: 670100	Vertexes: 6701	Weights match: Passed
+Burovka time: 1555296	Kruskal time: 1475946
+Edges: 680100	Vertexes: 6801	Weights match: Passed
+Burovka time: 1543839	Kruskal time: 1504195
+Edges: 690100	Vertexes: 6901	Weights match: Passed
+Burovka time: 1828647	Kruskal time: 1549556
+Edges: 700100	Vertexes: 7001	Weights match: Passed
+Burovka time: 1603800	Kruskal time: 1573236
+Edges: 710100	Vertexes: 7101	Weights match: Passed
+Burovka time: 1884124	Kruskal time: 1569754
+Edges: 720100	Vertexes: 7201	Weights match: Passed
+Burovka time: 1621621	Kruskal time: 1616458
+Edges: 730100	Vertexes: 7301	Weights match: Passed
+Burovka time: 1659592	Kruskal time: 1656117
+Edges: 740100	Vertexes: 7401	Weights match: Passed
+Burovka time: 1696040	Kruskal time: 1645713
+Edges: 750100	Vertexes: 7501	Weights match: Passed
+Burovka time: 1764212	Kruskal time: 1667255
+Edges: 760100	Vertexes: 7601	Weights match: Passed
+Burovka time: 1753092	Kruskal time: 1716062
+Edges: 770100	Vertexes: 7701	Weights match: Passed
+Burovka time: 1931605	Kruskal time: 1694591
+Edges: 780100	Vertexes: 7801	Weights match: Passed
+Burovka time: 1952411	Kruskal time: 1786855
+Edges: 790100	Vertexes: 7901	Weights match: Passed
+Burovka time: 2025163	Kruskal time: 1802162
+Edges: 800100	Vertexes: 8001	Weights match: Passed
+Burovka time: 1794185	Kruskal time: 1919588
+Edges: 810100	Vertexes: 8101	Weights match: Passed
+Burovka time: 2127846	Kruskal time: 1783434
+Edges: 820100	Vertexes: 8201	Weights match: Passed
+Burovka time: 2130198	Kruskal time: 1853316
+Edges: 830100	Vertexes: 8301	Weights match: Passed
+Burovka time: 2102360	Kruskal time: 1891970
+Edges: 840100	Vertexes: 8401	Weights match: Passed
+Burovka time: 2261593	Kruskal time: 1958455
+Edges: 850100	Vertexes: 8501	Weights match: Passed
+Burovka time: 2268208	Kruskal time: 1960631
+Edges: 860100	Vertexes: 8601	Weights match: Passed
+Burovka time: 2197218	Kruskal time: 1973299
+Edges: 870100	Vertexes: 8701	Weights match: Passed
+Burovka time: 2122094	Kruskal time: 2007834
+Edges: 880100	Vertexes: 8801	Weights match: Passed
+Burovka time: 1982796	Kruskal time: 2030074
+Edges: 890100	Vertexes: 8901	Weights match: Passed
+Burovka time: 2232605	Kruskal time: 2110919
+Edges: 900100	Vertexes: 9001	Weights match: Passed
+Burovka time: 2376894	Kruskal time: 2050590
+Edges: 910100	Vertexes: 9101	Weights match: Passed
+Burovka time: 2340531	Kruskal time: 2255789
+Edges: 920100	Vertexes: 9201	Weights match: Passed
+Burovka time: 2411346	Kruskal time: 2084822
+Edges: 930100	Vertexes: 9301	Weights match: Passed
+Burovka time: 2157818	Kruskal time: 2174071
+Edges: 940100	Vertexes: 9401	Weights match: Passed
+Burovka time: 2135328	Kruskal time: 2207236
+Edges: 950100	Vertexes: 9501	Weights match: Passed
+Burovka time: 2370356	Kruskal time: 2229799
+Edges: 960100	Vertexes: 9601	Weights match: Passed
+Burovka time: 2441103	Kruskal time: 2233856
+Edges: 970100	Vertexes: 9701	Weights match: Passed
+Burovka time: 2542761	Kruskal time: 2361398
+Edges: 980100	Vertexes: 9801	Weights match: Passed
+Burovka time: 2573114	Kruskal time: 2301787
+Edges: 990100	Vertexes: 9901	Weights match: Passed
+Burovka time: 2272889	Kruskal time: 2212835
+
+Task 3.2 Edges=1000*Vertexes
+Edges: 3001000	Vertexes: 3001	Weights match: Passed
+Burovka time: 6399635	Kruskal time: 7928589
+Edges: 3101000	Vertexes: 3101	Weights match: Passed
+Burovka time: 6865482	Kruskal time: 8360973
+Edges: 3201000	Vertexes: 3201	Weights match: Passed
+Burovka time: 8115280	Kruskal time: 8845808
+Edges: 3301000	Vertexes: 3301	Weights match: Passed
+Burovka time: 7212043	Kruskal time: 8969203
+Edges: 3401000	Vertexes: 3401	Weights match: Passed
+Burovka time: 7590186	Kruskal time: 9463249
+Edges: 3501000	Vertexes: 3501	Weights match: Passed
+Burovka time: 7852079	Kruskal time: 9317881
+Edges: 3601000	Vertexes: 3601	Weights match: Passed
+Burovka time: 7934657	Kruskal time: 9899622
+Edges: 3701000	Vertexes: 3701	Weights match: Passed
+Burovka time: 7783204	Kruskal time: 10072811
+Edges: 3801000	Vertexes: 3801	Weights match: Passed
+Burovka time: 8081188	Kruskal time: 10559099
+Edges: 3901000	Vertexes: 3901	Weights match: Passed
+Burovka time: 9561504	Kruskal time: 10709182
+Edges: 4001000	Vertexes: 4001	Weights match: Passed
+Burovka time: 8557908	Kruskal time: 11095038
+Edges: 4101000	Vertexes: 4101	Weights match: Passed
+Burovka time: 8704451	Kruskal time: 11544415
+Edges: 4201000	Vertexes: 4201	Weights match: Passed
+Burovka time: 10020305	Kruskal time: 11602902
+Edges: 4301000	Vertexes: 4301	Weights match: Passed
+Burovka time: 9386229	Kruskal time: 11921031
+Edges: 4401000	Vertexes: 4401	Weights match: Passed
+Burovka time: 10769557	Kruskal time: 12446125
+Edges: 4501000	Vertexes: 4501	Weights match: Passed
+Burovka time: 9777160	Kruskal time: 12843551
+Edges: 4601000	Vertexes: 4601	Weights match: Passed
+Burovka time: 9978449	Kruskal time: 13089087
+Edges: 4701000	Vertexes: 4701	Weights match: Passed
+Burovka time: 9934130	Kruskal time: 14081250
+Edges: 4801000	Vertexes: 4801	Weights match: Passed
+Burovka time: 12209574	Kruskal time: 13747592
+Edges: 4901000	Vertexes: 4901	Weights match: Passed
+Burovka time: 12013388	Kruskal time: 13925081
+Edges: 5001000	Vertexes: 5001	Weights match: Passed
+Burovka time: 10783264	Kruskal time: 14360500
+Edges: 5101000	Vertexes: 5101	Weights match: Passed
+Burovka time: 11175662	Kruskal time: 14943159
+Edges: 5201000	Vertexes: 5201	Weights match: Passed
+Burovka time: 13279290	Kruskal time: 15036623
+Edges: 5301000	Vertexes: 5301	Weights match: Passed
+Burovka time: 11673231	Kruskal time: 15018432
+Edges: 5401000	Vertexes: 5401	Weights match: Passed
+Burovka time: 11977274	Kruskal time: 15765311
+Edges: 5501000	Vertexes: 5501	Weights match: Passed
+Burovka time: 13863738	Kruskal time: 15671245
+Edges: 5601000	Vertexes: 5601	Weights match: Passed
+Burovka time: 14369487	Kruskal time: 16782761
+Edges: 5701000	Vertexes: 5701	Weights match: Passed
+Burovka time: 12873238	Kruskal time: 16933542
+Edges: 5801000	Vertexes: 5801	Weights match: Passed
+Burovka time: 14648663	Kruskal time: 17819346
+Edges: 5901000	Vertexes: 5901	Weights match: Passed
+Burovka time: 13108599	Kruskal time: 17308033
+Edges: 6001000	Vertexes: 6001	Weights match: Passed
+Burovka time: 15522032	Kruskal time: 17960064
+Edges: 6101000	Vertexes: 6101	Weights match: Passed
+Burovka time: 15232858	Kruskal time: 17775235
+Edges: 6201000	Vertexes: 6201	Weights match: Passed
+Burovka time: 14046207	Kruskal time: 18648631
+Edges: 6301000	Vertexes: 6301	Weights match: Passed
+Burovka time: 16374482	Kruskal time: 18723088
+Edges: 6401000	Vertexes: 6401	Weights match: Passed
+Burovka time: 16768151	Kruskal time: 18591686
+Edges: 6501000	Vertexes: 6501	Weights match: Passed
+Burovka time: 16642269	Kruskal time: 19147165
+Edges: 6601000	Vertexes: 6601	Weights match: Passed
+Burovka time: 15023490	Kruskal time: 19588615
+Edges: 6701000	Vertexes: 6701	Weights match: Passed
+Burovka time: 15466087	Kruskal time: 19821208
+Edges: 6801000	Vertexes: 6801	Weights match: Passed
+Burovka time: 15709012	Kruskal time: 20663792
+Edges: 6901000	Vertexes: 6901	Weights match: Passed
+Burovka time: 15690715	Kruskal time: 20563078
+Edges: 7001000	Vertexes: 7001	Weights match: Passed
+Burovka time: 18780616	Kruskal time: 21330822
+Edges: 7101000	Vertexes: 7101	Weights match: Passed
+Burovka time: 16713972	Kruskal time: 21132761
+Edges: 7201000	Vertexes: 7201	Weights match: Passed
+Burovka time: 19135355	Kruskal time: 21322486
+Edges: 7301000	Vertexes: 7301	Weights match: Passed
+Burovka time: 19245999	Kruskal time: 21455764
+Edges: 7401000	Vertexes: 7401	Weights match: Passed
+Burovka time: 19379017	Kruskal time: 22494140
+Edges: 7501000	Vertexes: 7501	Weights match: Passed
+Burovka time: 19693929	Kruskal time: 22521740
+Edges: 7601000	Vertexes: 7601	Weights match: Passed
+Burovka time: 17702482	Kruskal time: 22692106
+Edges: 7701000	Vertexes: 7701	Weights match: Passed
+Burovka time: 19675480	Kruskal time: 23704007
+Edges: 7801000	Vertexes: 7801	Weights match: Passed
+Burovka time: 20181216	Kruskal time: 23175293
+Edges: 7901000	Vertexes: 7901	Weights match: Passed
+Burovka time: 18132864	Kruskal time: 24031604
+Edges: 8001000	Vertexes: 8001	Weights match: Passed
+Burovka time: 20574146	Kruskal time: 25279699
+Edges: 8101000	Vertexes: 8101	Weights match: Passed
+Burovka time: 18423035	Kruskal time: 24412514
+Edges: 8201000	Vertexes: 8201	Weights match: Passed
+Burovka time: 18835633	Kruskal time: 25630668
+Edges: 8301000	Vertexes: 8301	Weights match: Passed
+Burovka time: 19970406	Kruskal time: 25345974
+Edges: 8401000	Vertexes: 8401	Weights match: Passed
+Burovka time: 22548054	Kruskal time: 26185412
+Edges: 8501000	Vertexes: 8501	Weights match: Passed
+Burovka time: 22497183	Kruskal time: 26959697
+Edges: 8601000	Vertexes: 8601	Weights match: Passed
+Burovka time: 19859009	Kruskal time: 26299779
+Edges: 8701000	Vertexes: 8701	Weights match: Passed
+Burovka time: 22707853	Kruskal time: 26872481
+Edges: 8801000	Vertexes: 8801	Weights match: Passed
+Burovka time: 19934318	Kruskal time: 26680925
+Edges: 8901000	Vertexes: 8901	Weights match: Passed
+Burovka time: 23736464	Kruskal time: 27573675
+Edges: 9001000	Vertexes: 9001	Weights match: Passed
+Burovka time: 22807124	Kruskal time: 27453574
+Edges: 9101000	Vertexes: 9101	Weights match: Passed
+Burovka time: 24856655	Kruskal time: 28976088
+Edges: 9201000	Vertexes: 9201	Weights match: Passed
+Burovka time: 25229633	Kruskal time: 28168695
+Edges: 9301000	Vertexes: 9301	Weights match: Passed
+Burovka time: 25264627	Kruskal time: 28933830
+Edges: 9401000	Vertexes: 9401	Weights match: Passed
+Burovka time: 22239759	Kruskal time: 29523894
+Edges: 9501000	Vertexes: 9501	Weights match: Passed
+Burovka time: 26259541	Kruskal time: 29758151
+Edges: 9601000	Vertexes: 9601	Weights match: Passed
+Burovka time: 25361966	Kruskal time: 29312444
+Edges: 9701000	Vertexes: 9701	Weights match: Passed
+Burovka time: 26194298	Kruskal time: 30758485
+Edges: 9801000	Vertexes: 9801	Weights match: Passed
+Burovka time: 25312222	Kruskal time: 30073804
+Edges: 9901000	Vertexes: 9901	Weights match: Passed
+Burovka time: 25969480	Kruskal time: 31447301
+
+Task 3.3
+Edges: 100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 389906	Kruskal time: 164482
+Edges: 200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 462226	Kruskal time: 370073
+Edges: 300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 789419	Kruskal time: 587691
+Edges: 400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 912570	Kruskal time: 840544
+Edges: 500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 1371241	Kruskal time: 1753604
+Edges: 600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 1581315	Kruskal time: 1310781
+Edges: 700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 1793970	Kruskal time: 1595244
+Edges: 800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 1814455	Kruskal time: 1854512
+Edges: 900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 2282226	Kruskal time: 2079850
+Edges: 1000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 2278061	Kruskal time: 2376936
+Edges: 1100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 2876967	Kruskal time: 2643950
+Edges: 1200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 3090349	Kruskal time: 3016884
+Edges: 1300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 3031189	Kruskal time: 3198761
+Edges: 1400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 3534886	Kruskal time: 3433626
+Edges: 1500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 4008927	Kruskal time: 3686031
+Edges: 1600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 4271939	Kruskal time: 3940780
+Edges: 1700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 4544645	Kruskal time: 4278682
+Edges: 1800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 4829266	Kruskal time: 4480276
+Edges: 1900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 4500768	Kruskal time: 4883031
+Edges: 2000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 5425130	Kruskal time: 5117238
+Edges: 2100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 5603710	Kruskal time: 5406991
+Edges: 2200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 5765455	Kruskal time: 5697567
+Edges: 2300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 6161639	Kruskal time: 5973434
+Edges: 2400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 6341457	Kruskal time: 6266790
+Edges: 2500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 6601084	Kruskal time: 6515309
+Edges: 2600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 6712905	Kruskal time: 7008575
+Edges: 2700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 7066614	Kruskal time: 7064262
+Edges: 2800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 7528116	Kruskal time: 7620301
+Edges: 2900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 7651129	Kruskal time: 7675055
+Edges: 3000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 7890941	Kruskal time: 8009618
+Edges: 3100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 8266907	Kruskal time: 8593472
+Edges: 3200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 8358327	Kruskal time: 8512703
+Edges: 3300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 7779673	Kruskal time: 8923823
+Edges: 3400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 7805375	Kruskal time: 9101410
+Edges: 3500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 8140568	Kruskal time: 9458261
+Edges: 3600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 9054207	Kruskal time: 9829466
+Edges: 3700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 10085737	Kruskal time: 10132811
+Edges: 3800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 8525317	Kruskal time: 10294481
+Edges: 3900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 10414682	Kruskal time: 10669632
+Edges: 4000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 10759067	Kruskal time: 10901435
+Edges: 4100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 10456153	Kruskal time: 11492010
+Edges: 4200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 10952562	Kruskal time: 11702312
+Edges: 4300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 11569879	Kruskal time: 11866317
+Edges: 4400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 11786166	Kruskal time: 12434831
+Edges: 4500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 11774513	Kruskal time: 12659761
+Edges: 4600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 12239865	Kruskal time: 12813743
+Edges: 4700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 12659648	Kruskal time: 13273340
+Edges: 4800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 12172497	Kruskal time: 13952375
+Edges: 4900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 13164579	Kruskal time: 14109849
+Edges: 5000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 13041030	Kruskal time: 14483572
+Edges: 5100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 11927298	Kruskal time: 14953248
+Edges: 5200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 13102916	Kruskal time: 15015591
+Edges: 5300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 14156214	Kruskal time: 15298498
+Edges: 5400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 14382217	Kruskal time: 15762531
+Edges: 5500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 14694652	Kruskal time: 15945114
+Edges: 5600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 12997442	Kruskal time: 16342279
+Edges: 5700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 14421676	Kruskal time: 16320188
+Edges: 5800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 14580867	Kruskal time: 16551113
+Edges: 5900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 15938257	Kruskal time: 16807059
+Edges: 6000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 15609932	Kruskal time: 17170875
+Edges: 6100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 15910483	Kruskal time: 17427793
+Edges: 6200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 16098004	Kruskal time: 18313241
+Edges: 6300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 16850586	Kruskal time: 18274227
+Edges: 6400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 16862919	Kruskal time: 18936827
+Edges: 6500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 16824591	Kruskal time: 19787921
+Edges: 6600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 17598915	Kruskal time: 20026534
+Edges: 6700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 17948466	Kruskal time: 20337817
+Edges: 6800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 18028774	Kruskal time: 21181679
+Edges: 6900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 17846340	Kruskal time: 21150913
+Edges: 7000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 17915339	Kruskal time: 21188677
+Edges: 7100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 18389189	Kruskal time: 21038330
+Edges: 7200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 19406765	Kruskal time: 22376890
+Edges: 7300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 19553464	Kruskal time: 22293438
+Edges: 7400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 16930290	Kruskal time: 22628602
+Edges: 7500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 20576320	Kruskal time: 23230272
+Edges: 7600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 20204807	Kruskal time: 22858488
+Edges: 7700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 20972877	Kruskal time: 23622047
+Edges: 7800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 20866641	Kruskal time: 23550620
+Edges: 7900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 18283333	Kruskal time: 24259988
+Edges: 8000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 19229203	Kruskal time: 24112746
+Edges: 8100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 21218658	Kruskal time: 25498539
+Edges: 8200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 21685267	Kruskal time: 25423988
+Edges: 8300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22899274	Kruskal time: 24813924
+Edges: 8400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 21996201	Kruskal time: 25572295
+Edges: 8500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22161924	Kruskal time: 25514432
+Edges: 8600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 19821489	Kruskal time: 26040719
+Edges: 8700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22902052	Kruskal time: 26473094
+Edges: 8800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22931103	Kruskal time: 26574893
+Edges: 8900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23220838	Kruskal time: 27076751
+Edges: 9000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23957753	Kruskal time: 26842590
+Edges: 9100000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24450596	Kruskal time: 27811050
+Edges: 9200000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24717030	Kruskal time: 28435164
+Edges: 9300000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24873173	Kruskal time: 28822750
+Edges: 9400000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24988874	Kruskal time: 28663012
+Edges: 9500000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25108620	Kruskal time: 28928232
+Edges: 9600000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24869590	Kruskal time: 29385835
+Edges: 9700000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25502060	Kruskal time: 29929224
+Edges: 9800000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23547107	Kruskal time: 30396454
+Edges: 9900000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26613947	Kruskal time: 30286451
+
+Task 3.4 Full Graph
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 16350344	Kruskal time: 85673823
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 31438358	Kruskal time: 92021556
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 32489564	Kruskal time: 97913235
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 33253974	Kruskal time: 107919592
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 32136398	Kruskal time: 113058611
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 34066113	Kruskal time: 122740345
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 28212907	Kruskal time: 120649349
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37445924	Kruskal time: 127314910
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 31470913	Kruskal time: 134435475
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37773044	Kruskal time: 137349875
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 33485051	Kruskal time: 133039398
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 35925591	Kruskal time: 135218676
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 35580836	Kruskal time: 135558691
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37617850	Kruskal time: 140205780
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 34613021	Kruskal time: 144207873
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37211748	Kruskal time: 140200441
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37281309	Kruskal time: 145071038
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 36708240	Kruskal time: 140367173
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37321938	Kruskal time: 145782864
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37321440	Kruskal time: 141426216
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38470094	Kruskal time: 145497409
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38230294	Kruskal time: 141712848
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37967375	Kruskal time: 145681827
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38295119	Kruskal time: 148379525
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38644107	Kruskal time: 148204765
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39351479	Kruskal time: 146595578
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39820364	Kruskal time: 149966515
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38570109	Kruskal time: 146085064
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39381579	Kruskal time: 145077366
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37524044	Kruskal time: 148638142
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37668928	Kruskal time: 149493986
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39351759	Kruskal time: 152048373
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 37509817	Kruskal time: 148191906
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39226884	Kruskal time: 154337204
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38926467	Kruskal time: 154842857
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38822661	Kruskal time: 155475445
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40062307	Kruskal time: 154894040
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38261044	Kruskal time: 156364259
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39276531	Kruskal time: 155314530
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39490795	Kruskal time: 157325237
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38158518	Kruskal time: 155428597
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38632250	Kruskal time: 157301527
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38582741	Kruskal time: 155926014
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38848246	Kruskal time: 157607855
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38473325	Kruskal time: 156688270
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38858190	Kruskal time: 157754600
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39390249	Kruskal time: 156635200
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39221617	Kruskal time: 160164406
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39117159	Kruskal time: 156192904
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38346415	Kruskal time: 158550362
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39143895	Kruskal time: 158227949
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38104063	Kruskal time: 157319160
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39415968	Kruskal time: 157664472
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39434085	Kruskal time: 157383484
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38461339	Kruskal time: 158910772
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38651733	Kruskal time: 158670085
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39385269	Kruskal time: 159384544
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38367289	Kruskal time: 159720239
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39012434	Kruskal time: 159441960
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38068767	Kruskal time: 160164699
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39482275	Kruskal time: 158886408
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39373481	Kruskal time: 162056341
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39227469	Kruskal time: 159210340
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 41092555	Kruskal time: 160606139
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40552976	Kruskal time: 159907156
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40218507	Kruskal time: 160455102
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39870909	Kruskal time: 162217099
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40317394	Kruskal time: 160509428
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39666575	Kruskal time: 161723873
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39933742	Kruskal time: 161200433
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38845397	Kruskal time: 162892767
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40273990	Kruskal time: 161382688
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39773712	Kruskal time: 160984323
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40098493	Kruskal time: 161652550
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40914942	Kruskal time: 160801800
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38794113	Kruskal time: 165279368
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39402682	Kruskal time: 162421472
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40322669	Kruskal time: 161752941
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40949098	Kruskal time: 164412366
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38535119	Kruskal time: 161721395
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39725341	Kruskal time: 161040249
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39137356	Kruskal time: 163559621
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39390799	Kruskal time: 164716087
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38199542	Kruskal time: 162625574
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39034292	Kruskal time: 163186900
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 50418438	Kruskal time: 165415314
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40827289	Kruskal time: 162351690
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40143761	Kruskal time: 162989861
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38987233	Kruskal time: 161809544
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 41241861	Kruskal time: 165392114
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38553115	Kruskal time: 163110707
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40166015	Kruskal time: 163375371
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39936751	Kruskal time: 163386844
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39216570	Kruskal time: 164065310
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 50422398	Kruskal time: 164304704
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53877420	Kruskal time: 163881644
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39124390	Kruskal time: 163416528
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40257642	Kruskal time: 164832318
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39559647	Kruskal time: 164522100
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39473517	Kruskal time: 165049937
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53192298	Kruskal time: 164451956
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39796826	Kruskal time: 167056211
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39687480	Kruskal time: 165252857
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40610535	Kruskal time: 166122833
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 38863081	Kruskal time: 168410771
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39495597	Kruskal time: 165351314
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39775174	Kruskal time: 165879061
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39520471	Kruskal time: 166982902
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40218055	Kruskal time: 166139418
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40229886	Kruskal time: 167276217
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 41010127	Kruskal time: 165794966
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39618169	Kruskal time: 170020246
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39381652	Kruskal time: 165493902
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40053658	Kruskal time: 166506918
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39400541	Kruskal time: 166078592
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54172539	Kruskal time: 166372410
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39823647	Kruskal time: 166567268
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39455245	Kruskal time: 170569724
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40272478	Kruskal time: 167269187
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 57939921	Kruskal time: 167335804
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40136033	Kruskal time: 165455532
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39398444	Kruskal time: 168099255
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39977983	Kruskal time: 165691945
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39653647	Kruskal time: 169464435
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40658428	Kruskal time: 167116448
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54989289	Kruskal time: 169574275
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39414964	Kruskal time: 166045452
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39919846	Kruskal time: 166907993
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 51858784	Kruskal time: 164876105
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39425641	Kruskal time: 168261550
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39899339	Kruskal time: 165983162
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55467294	Kruskal time: 168504837
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 51223787	Kruskal time: 168102521
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55333500	Kruskal time: 169780414
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55808925	Kruskal time: 168658523
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53890490	Kruskal time: 168815033
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40190007	Kruskal time: 166655791
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 49543508	Kruskal time: 169375600
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39594138	Kruskal time: 167993320
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 51654009	Kruskal time: 171236361
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54321515	Kruskal time: 167800544
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53868849	Kruskal time: 168811048
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55684578	Kruskal time: 167117825
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 44634981	Kruskal time: 169433456
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56475639	Kruskal time: 167939191
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 52506142	Kruskal time: 169868176
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40370499	Kruskal time: 169577811
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 52084316	Kruskal time: 170449924
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 49645012	Kruskal time: 169122960
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40916491	Kruskal time: 174107846
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40672853	Kruskal time: 168489578
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55729971	Kruskal time: 172104426
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56174669	Kruskal time: 169757069
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 41406089	Kruskal time: 169683683
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 57056868	Kruskal time: 169342968
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55882199	Kruskal time: 171931664
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53791894	Kruskal time: 170306165
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55553153	Kruskal time: 172486646
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 41107590	Kruskal time: 170211708
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54484108	Kruskal time: 169829545
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 57249324	Kruskal time: 169024064
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54482757	Kruskal time: 171486496
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56577978	Kruskal time: 169504541
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55125752	Kruskal time: 170350709
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 57998196	Kruskal time: 170186524
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 58060367	Kruskal time: 173154867
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54727514	Kruskal time: 172946082
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39668865	Kruskal time: 170659472
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54519501	Kruskal time: 173243659
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56213952	Kruskal time: 171167965
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 50997784	Kruskal time: 171071554
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55106503	Kruskal time: 170946256
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55584538	Kruskal time: 169784069
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54473321	Kruskal time: 171295926
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 41093481	Kruskal time: 171261970
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54850392	Kruskal time: 173306573
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 40878063	Kruskal time: 171263192
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53038899	Kruskal time: 172286074
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 50465466	Kruskal time: 173523500
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55568749	Kruskal time: 172054753
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54292044	Kruskal time: 173280184
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39304200	Kruskal time: 172425173
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 59726110	Kruskal time: 171676527
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56651854	Kruskal time: 177396256
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56577392	Kruskal time: 173698852
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56876887	Kruskal time: 173223001
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 53345636	Kruskal time: 172811190
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 58036129	Kruskal time: 173538978
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 57320027	Kruskal time: 172220422
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54043316	Kruskal time: 174804040
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55412946	Kruskal time: 172680021
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 39482571	Kruskal time: 172551186
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56327513	Kruskal time: 173846109
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56601658	Kruskal time: 174514351
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54443898	Kruskal time: 173507653
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56575251	Kruskal time: 175628622
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 57651331	Kruskal time: 174518706
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 56243879	Kruskal time: 174659329
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 55629206	Kruskal time: 176071634
+Edges: 50005000	Vertexes: 10001	Weights match: Passed
+Burovka time: 54108517	Kruskal time: 172212796
+
+Task 3.4 Edges = 1000 * Vertexes
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25124438	Kruskal time: 15646938
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25855655	Kruskal time: 16991310
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24963060	Kruskal time: 17713824
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22722582	Kruskal time: 20138923
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27470553	Kruskal time: 20650188
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26103355	Kruskal time: 21801889
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26162490	Kruskal time: 22210889
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22401877	Kruskal time: 23403315
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25922579	Kruskal time: 23343740
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24751983	Kruskal time: 24391167
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25732939	Kruskal time: 24884204
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25223855	Kruskal time: 24236364
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27378987	Kruskal time: 24801679
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25924292	Kruskal time: 26245461
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26515261	Kruskal time: 25888483
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22846578	Kruskal time: 24820728
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22432386	Kruskal time: 25365921
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22299721	Kruskal time: 25364741
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27331621	Kruskal time: 25616233
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26354704	Kruskal time: 25233185
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25767209	Kruskal time: 25704516
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25933071	Kruskal time: 24923890
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22875189	Kruskal time: 25235890
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25238694	Kruskal time: 25939327
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 24693382	Kruskal time: 24850665
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25720969	Kruskal time: 25697251
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22559590	Kruskal time: 25082369
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25427678	Kruskal time: 25455008
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25778325	Kruskal time: 25413487
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22643242	Kruskal time: 24935225
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22586542	Kruskal time: 25101450
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25747514	Kruskal time: 24948377
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26541821	Kruskal time: 26066044
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26937766	Kruskal time: 26183468
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26499697	Kruskal time: 27066030
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25791281	Kruskal time: 26954524
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26120582	Kruskal time: 25623026
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26102666	Kruskal time: 26806751
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25039861	Kruskal time: 25705733
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26316839	Kruskal time: 26974729
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 29361535	Kruskal time: 26831803
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25517296	Kruskal time: 25387124
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25335684	Kruskal time: 25261911
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27178745	Kruskal time: 26149164
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26220082	Kruskal time: 25910646
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26122260	Kruskal time: 25588882
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26531528	Kruskal time: 25431684
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26349212	Kruskal time: 25733323
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26181439	Kruskal time: 25714562
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25716278	Kruskal time: 25770583
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26821341	Kruskal time: 25943071
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25041666	Kruskal time: 26094353
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26252340	Kruskal time: 26923251
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25569141	Kruskal time: 26447080
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22833057	Kruskal time: 25910416
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26293101	Kruskal time: 26457146
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23053711	Kruskal time: 25939014
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26806812	Kruskal time: 26357913
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25246671	Kruskal time: 26376318
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22819861	Kruskal time: 27595490
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22972419	Kruskal time: 26082309
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22752298	Kruskal time: 27435147
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25682849	Kruskal time: 27531196
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27206478	Kruskal time: 26467301
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27654639	Kruskal time: 27667165
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25018150	Kruskal time: 27901262
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26305093	Kruskal time: 27485029
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25852611	Kruskal time: 26424519
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22564756	Kruskal time: 27487180
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26874780	Kruskal time: 27272312
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25534106	Kruskal time: 26817889
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22391718	Kruskal time: 27747649
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26208661	Kruskal time: 27259946
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26453312	Kruskal time: 26963708
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25703375	Kruskal time: 27515364
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26641047	Kruskal time: 26744099
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26317996	Kruskal time: 26509098
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25804524	Kruskal time: 27067637
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22972957	Kruskal time: 26755866
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22911311	Kruskal time: 27770420
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26310068	Kruskal time: 27906467
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25846687	Kruskal time: 27145734
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23494148	Kruskal time: 28778258
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26019464	Kruskal time: 26561151
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25063368	Kruskal time: 27036134
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26994209	Kruskal time: 29076242
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25562092	Kruskal time: 26592930
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25885043	Kruskal time: 26571650
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25895264	Kruskal time: 26931545
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22951185	Kruskal time: 27324618
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26879830	Kruskal time: 26795258
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25696311	Kruskal time: 27283175
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26624854	Kruskal time: 27361175
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23435636	Kruskal time: 27729209
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25869265	Kruskal time: 27648146
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26400486	Kruskal time: 26462624
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25720745	Kruskal time: 27039283
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25302233	Kruskal time: 26545019
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27152569	Kruskal time: 27260753
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26467195	Kruskal time: 26864520
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23120174	Kruskal time: 26468873
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22686153	Kruskal time: 26771182
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23041569	Kruskal time: 26625595
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26219631	Kruskal time: 26834940
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25593820	Kruskal time: 27093145
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26367029	Kruskal time: 27203449
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26494231	Kruskal time: 27055650
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26312653	Kruskal time: 26782508
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25989653	Kruskal time: 27378884
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26254042	Kruskal time: 26767460
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27380070	Kruskal time: 27998639
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25975078	Kruskal time: 26955093
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23194362	Kruskal time: 27045583
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26569178	Kruskal time: 27833589
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26986353	Kruskal time: 27426456
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26660893	Kruskal time: 27122906
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25555659	Kruskal time: 28657867
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27157761	Kruskal time: 27471904
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26338425	Kruskal time: 27081350
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22729532	Kruskal time: 27329607
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26854232	Kruskal time: 27163648
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26376687	Kruskal time: 27194848
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26066812	Kruskal time: 26656725
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23219224	Kruskal time: 27160905
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25397399	Kruskal time: 26806910
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25982872	Kruskal time: 27038033
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22652550	Kruskal time: 27119248
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27031448	Kruskal time: 27910934
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26851551	Kruskal time: 26921130
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26490765	Kruskal time: 27754558
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25743606	Kruskal time: 27492880
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22693039	Kruskal time: 27975886
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23024037	Kruskal time: 28622372
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25873893	Kruskal time: 28095778
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23280361	Kruskal time: 28411380
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26166679	Kruskal time: 27705597
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26365203	Kruskal time: 28272587
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26796742	Kruskal time: 28562251
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26593501	Kruskal time: 27673710
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25659529	Kruskal time: 28582826
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25784583	Kruskal time: 27309555
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26783034	Kruskal time: 27939423
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23729802	Kruskal time: 28023304
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25619047	Kruskal time: 27275063
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26604016	Kruskal time: 27804709
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26075396	Kruskal time: 28536749
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25937574	Kruskal time: 27633850
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26585515	Kruskal time: 26793689
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26193819	Kruskal time: 27743095
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27161610	Kruskal time: 27957576
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23151605	Kruskal time: 28205996
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26670671	Kruskal time: 27624143
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22574385	Kruskal time: 28000808
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26654245	Kruskal time: 27218376
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26338607	Kruskal time: 27301403
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27339914	Kruskal time: 28819483
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26109196	Kruskal time: 27526495
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26946353	Kruskal time: 27490208
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25910548	Kruskal time: 27190912
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25921781	Kruskal time: 27484812
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26849983	Kruskal time: 27302658
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26789323	Kruskal time: 27441481
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26927859	Kruskal time: 27475638
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26177004	Kruskal time: 27638480
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25741412	Kruskal time: 28496738
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25640034	Kruskal time: 28851787
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27026345	Kruskal time: 28699206
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26807218	Kruskal time: 28639250
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27295917	Kruskal time: 27335013
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25415384	Kruskal time: 28803028
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26371013	Kruskal time: 27671863
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26541296	Kruskal time: 28675865
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26611577	Kruskal time: 27548664
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23256793	Kruskal time: 28035981
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27719976	Kruskal time: 27180048
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27121692	Kruskal time: 27550915
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26284629	Kruskal time: 27154392
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23472587	Kruskal time: 27930404
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25400490	Kruskal time: 26860005
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26481534	Kruskal time: 27159976
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22774278	Kruskal time: 27092246
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23222034	Kruskal time: 29220410
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22445202	Kruskal time: 27848620
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25488495	Kruskal time: 27277032
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25258905	Kruskal time: 28732810
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23313485	Kruskal time: 27201803
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26288906	Kruskal time: 27382260
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26538568	Kruskal time: 27318276
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25168942	Kruskal time: 26821590
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23076072	Kruskal time: 27290982
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22877597	Kruskal time: 28223732
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26433119	Kruskal time: 27092573
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26448796	Kruskal time: 27733322
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26432786	Kruskal time: 27207654
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 26807211	Kruskal time: 27569535
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25177545	Kruskal time: 29310690
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 23378936	Kruskal time: 27981742
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 22789326	Kruskal time: 28152964
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 27175216	Kruskal time: 28004415
+Edges: 10000000	Vertexes: 10001	Weights match: Passed
+Burovka time: 25970869	Kruskal time: 28151511

@@ -25,7 +25,7 @@ namespace Domain.DisjointSet {
         public void Union(int item1, int item2) {
             var i1 = Find(item1);
             var i2 = Find(item2);
-            if (random.Next() % 2 == 0) {
+            if (random.Next()%2 == 0) {
                 tree[i1] = i2;
             } else {
                 tree[i2] = i1;
