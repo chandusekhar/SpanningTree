@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Linq;
 using Domain.DisjointSet;
 using Domain.HashSet;
 
@@ -100,6 +102,27 @@ namespace Domain {
             }
 
             return result;
+        }
+
+        public static Graph GenerateFromFile(string path) {
+            var reader = new StreamReader(path);
+            var firstLine = reader.ReadLine().Split(' ');
+            var vertexes = Convert.ToInt32(firstLine[0]);
+            var edges = Convert.ToInt32(firstLine[1]);
+
+            var graph = new Graph {
+                Vertexes = Enumerable.Range(0, 500).ToList()
+            };
+
+            for (var i = 0; i < edges; i++) {
+                var line = reader.ReadLine().Split(' ');
+                var from = Convert.ToInt32(line[0]) - 1;
+                var to = Convert.ToInt32(line[1]) - 1;
+                var weight = Convert.ToInt32(line[2]);
+                graph.Edges.Add(new Edge<int>(from, to, weight));
+            }
+
+            return graph;
         }
     }
 }
