@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using System.Linq;
 using Domain;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -32,37 +31,51 @@ namespace Tests {
         }
 
         [TestMethod]
+        public void CanBuildSpanningTreeUsingNaivePrimAlgorithm() {
+            var prim = SpanningTree.NaivePrim(inputGraph);
+            AssertSimpleSpanningTree(prim);
+        }
+
+        [TestMethod]
         public void CanBuildSpanningTreeUsingKruskalAlgorithm() {
             var kruskal = SpanningTree.Kruskal(inputGraph);
-            Assert.AreEqual(8, kruskal.Vertexes.Count);
-            Assert.AreEqual(7, kruskal.Edges.Count);
-            Assert.AreEqual(71, kruskal.Edges.Sum(_ => _.Weight));
+            AssertSimpleSpanningTree(kruskal);
         }
 
         [TestMethod]
         public void CanBuildSpanningTreeUsingBoruvkaAlgorithm() {
             var boruvka = SpanningTree.Boruvka(inputGraph);
-            Assert.AreEqual(8, boruvka.Vertexes.Count);
-            Assert.AreEqual(7, boruvka.Edges.Count);
-            Assert.AreEqual(71, boruvka.Edges.Sum(_ => _.Weight));
+            AssertSimpleSpanningTree(boruvka);
         }
 
         [TestMethod]
         public void IntegrationTest() {
-            var graph = GraphGenerator.GenerateGraph(10000, 500000, 1, 400);
+            var graph = GraphGenerator.GenerateGraph(1000, 5000, 1, 400);
             var stopwatch = new Stopwatch();
 
-            stopwatch.Start();
+            stopwatch.Restart();
             var boruvka = SpanningTree.Boruvka(graph);
             stopwatch.Stop();
-            Debug.WriteLine(stopwatch.ElapsedTicks);
+            Debug.WriteLine("Boruvka : {0}", stopwatch.ElapsedTicks);
 
             stopwatch.Restart();
             var kruskal = SpanningTree.Kruskal(graph);
             stopwatch.Stop();
-            Debug.WriteLine(stopwatch.ElapsedTicks);
+            Debug.WriteLine("Kruskal : {0}", stopwatch.ElapsedTicks);
 
+            stopwatch.Restart();
+            var prim = SpanningTree.NaivePrim(graph);
+            stopwatch.Stop();
+            Debug.WriteLine("NaivePrim : {0}", stopwatch.ElapsedTicks);
+
+            Assert.AreEqual(boruvka.Weight, prim.Weight);
             Assert.AreEqual(boruvka.Weight, kruskal.Weight);
+        }
+
+        private static void AssertSimpleSpanningTree(Graph graph) {
+            Assert.AreEqual(8, graph.Vertexes.Count);
+            Assert.AreEqual(7, graph.Edges.Count);
+            Assert.AreEqual(71, graph.Weight);
         }
     }
 }

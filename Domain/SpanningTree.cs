@@ -4,12 +4,29 @@ using Domain.DisjointSet;
 
 namespace Domain {
     public static class SpanningTree {
+        public static Graph NaivePrim(Graph inputGraph) {
+            var result = new Graph();
+            result.Vertexes.Add(inputGraph.Vertexes.First());
+
+            while (result.Vertexes.Count != inputGraph.Vertexes.Count) {
+                var newEdge = inputGraph
+                    .Edges
+                    .Where(_ => result.Vertexes.Contains(_.From) ^ result.Vertexes.Contains(_.To))
+                    .Min();
+                
+                result.Edges.Add(newEdge);
+                result.Vertexes.Add(result.Vertexes.Contains(newEdge.From) ? newEdge.To : newEdge.From);
+            }
+
+            return result;
+        }
+        
         public static Graph Kruskal(Graph inputGraph) {
             var result = new Graph();
             result.Vertexes = inputGraph.Vertexes;
 
             var edges = inputGraph.Edges.ToList();
-            edges.Sort(new WeightComparer<int>());
+            edges.Sort();
 
             var disjointSetUnion = new DisjointSetUnionTree(inputGraph.Vertexes);
 
