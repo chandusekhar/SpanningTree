@@ -7,8 +7,10 @@ namespace Domain.DisjointSet {
 
         public DisjointSetUnionArray(IEnumerable<int> enumerable) {
             var ints = enumerable as int[] ?? enumerable.ToArray();
-            array = new int[ints.Count()];
-            for (var i = 0; i < ints.Count(); i++) {
+            var count = ints.Count();
+            Count = count;
+            array = new int[count];
+            for (var i = 0; i < count; i++) {
                 array[ints[i]] = ints[i];
             }
         }
@@ -29,6 +31,10 @@ namespace Domain.DisjointSet {
                     array[i] = i1;
                 }
             }
+
+            Count--;
         }
+
+        public int Count { get; private set; }
     }
 }

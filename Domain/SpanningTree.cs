@@ -27,15 +27,19 @@ namespace Domain {
 
             var edges = inputGraph.Edges.ToList();
             edges.Sort();
+            var enumerator = edges.GetEnumerator();
 
             var disjointSetUnion = new DisjointSetUnionTree(inputGraph.Vertexes);
 
-            foreach (var edge in edges) {
+            while (result.Edges.Count < result.Vertexes.Count - 1) {
+                enumerator.MoveNext();
+                var edge = enumerator.Current;
+
                 var fromRoot = disjointSetUnion.Find(edge.From);
                 var toRoot = disjointSetUnion.Find(edge.To);
 
                 if (fromRoot != toRoot) {
-                    disjointSetUnion.Union(fromRoot, toRoot);
+                    disjointSetUnion.Union(edge.From, edge.To);
                     result.Edges.Add(edge);
                 }
             }

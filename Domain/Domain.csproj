@@ -67,6 +67,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clustering.cs" />
     <Compile Include="DisjointSet\DisjointSetUnionArray.cs" />
     <Compile Include="DisjointSet\DisjointSetUnionTree.cs" />
     <Compile Include="DisjointSet\IDisjointSetUnion.cs" />

@@ -9,8 +9,10 @@ namespace Domain.DisjointSet {
 
         public DisjointSetUnionTree(IEnumerable<int> enumerable) {
             var ints = enumerable as int[] ?? enumerable.ToArray();
-            tree = new int[ints.Count()];
-            for (var i = 0; i < ints.Count(); i++) {
+            var count = ints.Count();
+            Count = count;
+            tree = new int[count];
+            for (var i = 0; i < count; i++) {
                 tree[ints[i]] = ints[i];
             }
         }
@@ -30,6 +32,9 @@ namespace Domain.DisjointSet {
             } else {
                 tree[i2] = i1;
             }
+            Count--;
         }
+
+        public int Count { get; private set; }
     }
 }
