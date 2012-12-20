@@ -3,17 +3,21 @@ using Domain.DisjointSet;
 
 namespace Domain {
     public static class Clustering {
-        public static Graph Cluster(Graph graph) {
+        public static int Cluster(Graph graph, int clusterCount) {
             var result = new Graph {
                                        Vertexes = graph.Vertexes
                                    };
 
             var edges = graph.Edges.ToList();
             edges.Sort();
+            var enumerator = edges.GetEnumerator();
 
             var disjointSetUnion = new DisjointSetUnionTree(graph.Vertexes);
 
-            foreach (var edge in edges) {
+            while (disjointSetUnion.Count != clusterCount - 1) {
+                enumerator.MoveNext();
+                var edge = enumerator.Current;
+
                 var fromRoot = disjointSetUnion.Find(edge.From);
                 var toRoot = disjointSetUnion.Find(edge.To);
 
@@ -23,7 +27,7 @@ namespace Domain {
                 }
             }
 
-            return result;
+            return enumerator.Current.Weight;
         }
     }
 }

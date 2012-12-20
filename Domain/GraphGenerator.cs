@@ -111,7 +111,7 @@ namespace Domain {
             var edges = Convert.ToInt32(firstLine[1]);
 
             var graph = new Graph {
-                Vertexes = Enumerable.Range(0, 500).ToList()
+                Vertexes = Enumerable.Range(0, vertexes).ToList()
             };
 
             for (var i = 0; i < edges; i++) {
